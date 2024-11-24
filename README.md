@@ -27,3 +27,6 @@ To run the script, use the following command:
 
 ```bash
 python get_game_data.py <source_directory> <target_directory>
+Eg:
+python get_game_data.py data target
+
